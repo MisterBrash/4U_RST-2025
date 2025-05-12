@@ -1,0 +1,19 @@
+{ /* Dev Container for Codespaces by Mr. Squirrel - do not modify this file. */
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-vscode.live-server",
+				"formulahendry.code-runner",
+				"dbaeumer.vscode-eslint",
+				"esbenp.prettier-vscode",
+				"CS50.ddb50",
+				"CS50.extension-uninstaller",
+				"CS50.vscode-presentation-mode"
+			]
+		},
+		"settings": {
+			"workbench.welcomePage.walkthroughs.openOnInstall": false
+		}
+	}
+}
