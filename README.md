@@ -8,11 +8,12 @@ Final Project (Rich Summative Task) worth 30% of the overall mark.
 - [Requirements](#requirements)
 - [Project Ideas](#project-ideas-in-absolutely-no-particular-order)
 - [Suggested Timeline](#suggested-timeline)
+- [Rubric](#rubric)
 - [Resources](#resources)
 
 ### General Outline:
 
-The final project encompasses your understanding of the course material. It should include one _**or more**_ of the following:
+The final project encompasses your understanding of the course material. It must include two _**or more**_ of the following:
 - Sorting or Searching
 - Recursion (with or without divide & conquer)
 - Complex Data Structures (multi-dimensional arrays / matrices)
@@ -32,10 +33,10 @@ This final project will be an application (or game) built using JavaScript, HTML
 
 ### Requirements:
 ([Rubric](#rubric) available below)
-- Per-Project proposal including minimum expectations
+- [Project proposal](https://forms.gle/3z8Tjw9L243XD41g6) including minimum expectations
 - Draft User Interface (storyboarding)
 - Draft data structure / pseudo code overview
-- Students _must_ commit to GitHub daily and commit messages _must_ be meaningful or at least not random/gibberish
+- Students _must_ commit to GitHub at the end of every period 2 class and commit messages _must_ be meaningful or at least not random/gibberish
   - Save now, save often
 - Obvious entry to the application or game
   - Instructions available, if required (do not assume the user understands)
@@ -125,11 +126,12 @@ This rubric is a work in progress and _input from the class is encouraged_
 |**Project proposal**|Proposal is vague, incomplete, and/or not submitted on time.|Proposal includes some description and/or some final expectations and is submitted on or near the due date.|Proposal is submitted on-time, includes a description of the program and final expectations.|Proposal is submitted on-time (or early) and includes description, expectations, UI examples, and more.|
 |**Draft User Interface**|Draft UI is not representative of the chosen application, is incomplete or missing key features.|x | x|x |
 |**Data structure, plan, pseudocode**|Data structure and planning is incomplete or missing key details/features.|x|x|x|
-|**Code**| Code is... | x | x | Code is clean & structured, functions and data are named clearly & appropriately. Code is structured neatly, tabbed properly, and easy to read or follow. Globals and listeners are declared at the top with functions declared in an appropriate style and order.
+|**Code**| Code is... | x | x | Code is clean & structured, functions and data are named clearly & appropriately. Code is structured neatly, tabbed properly, and easy to read or follow. Globals and listeners are declared at the top with functions declared in an appropriate style and order.|
+|**Code Style**|x|x|x|Variable and function names are clear and easily understood. Code structure follows style or organization demonstrated in class. Student does not use new or over-engineered code structures beyond the course material or expectations. No use of spaghetti code or repetition of code (helper functions employed).|
 Code Documentation | x | x | x | Developer has supplied a thorough documentation of code including file header(s) and algorithm descriptions. Variables and data structure are explained, along with functions and helper-functions or classes. Comments are concise but give detail, written in a grammatically correct and pleasing style.|
 |Application Instructions| x | x | x | The application includes how-to instructions for the user, clearly identifying how to use the program, along with the various modes or functions of the application. Instructions are not obtrusive or in-your-face, they are easy to read and easy to understand.|
-|Application Usability| x | x | x | x |
-|Application Completion| x | x | x | x |
+|Application Usability| x | x | x | The program/game works as expected or described. The user is able to understand and use the application without any assistance from the developer or otherwise. Buttons and actions respond as expected, the program entrance and exit are obvious or easy to navigate, and instructions or assistance is available within the application itself. |
+|Application Completion| x | x | x | The program is _complete_ in the sense that there is a beginning, middle, and end. No errors or otherwise lack of program _end_ is noticeable. Either through winning or losing, saving or quitting, and all listed or linked functionality is as described. No features are left out. |
 
 ---
 

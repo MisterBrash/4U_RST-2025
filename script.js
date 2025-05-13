@@ -1,7 +1,9 @@
 /**
- * ICS4U - Final Project
- *
- * Program Description:
+ * ICS4U - Final Project (RST)
+ * Mr. Brash 🐿️
+ * 
+ * Title:
+ * Description:
  *
  * Author:
  */

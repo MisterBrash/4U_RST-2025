@@ -1,46 +1,24 @@
-{   /* Settings by Mr. Squirrel - Do not modify this file */
-    "editor.autoClosingQuotes": "never",
-    "editor.lightbulb.enabled": "off",
+{
     "editor.minimap.enabled": false,
-    "editor.mouseWheelZoom": true,
-    "editor.smoothScrolling": true,
-    "editor.wordWrap": "on",
-    "editor.tabSize": 2,
-    "livePreview.customExternalBrowser": "Chrome",
-    "livePreview.openPreviewTarget": "External Browser",
-    "files.insertFinalNewline": true,
-    "files.trimTrailingWhitespace": true,
-    "files.autoSave": "afterDelay",
-    "files.autoSaveDelay": 1000,
+    "workbench.editor.empty.hint": "hidden",
     "git.autofetch": true,
+    "files.autoSave": "afterDelay",
     "git.confirmSync": false,
-    "git.enableSmartCommit": true,
-    "githubPullRequests.defaultMergeMethod": "merge",
-    "html.autoClosingTags": true,
-    "html.format.extraLiners": "",
-    "htmlhint.enable": true,
+    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingQuotes": "never",
+    "editor.wordWrap": "on",
+    "html.autoClosingTags": false,
     "html.autoCreateQuotes": false,
     "extensions.ignoreRecommendations": true,
-    "files.eol": "\n",
-    "extension-uninstaller.uninstall": [
-        "Codeium.codeium",
-        "genieai.chatgpt-vscode",
-        "DanielSanMedium.dscodegpt",
-        "Blackboxapp.blackbox",
-        "Codeium.codeium-enterprise-updater",
-        "github.copilot",
-        "github.copilot-nightly",
-        "ms-toolsai.vscode-jupyter-cell-tags",
-        "tabnine.tabnine-vscode"
-    ],
-    "extension-uninstaller.skip": [
-        "CS50.extension-uninstaller"
-    ],
-    "terminal.integrated.copyOnSelection": true,
-    "terminal.integrated.fontSize": 16,
-    "terminal.integrated.rightClickBehavior": "copyPaste",
-    "window.menuBarVisibility": "classic",
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.startupEditor": "none",
-    "workbench.tips.enabled": false
-}
+    "files.exclude": {
+        "LICENSE": true,
+        ".gitignore": true,
+        ".devcontainer/": true,
+        ".vscode/": true,
+        "Lessons/": true,
+        "assets/": true
+    },
+    "workbench.editorAssociations": {   
+        "*.md": "vscode.markdown.preview.editor"
+    }
+  }
